@@ -1,5 +1,4 @@
 # HTML-template
-my template
-A web template created for front end design
+A front-end designed theme for a mobile company.
 
-[see demo](https://abdulsamad-optimisticstr.github.io/HTML-template/index.html)
+[see demo](https://AbSamDev.github.io/HTML-template/index.html)
