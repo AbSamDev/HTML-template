@@ -215,6 +215,7 @@ img{
 /* Footer social icons */
 
 .footer-distributed .footer-icons{
+	display: flex;
 	margin-top: 40px;
 }
 
@@ -226,13 +227,17 @@ img{
 	
 	border-radius: 2px;
 
-	font-size: 20px;
+	font-size: 30px;
 	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
-
+	transition: all 2s;
 	margin-right: 3px;
 	margin-bottom: 5px;
+}
+.footer-icons .fab:hover{
+	opacity: 0.5;
+	
 }
 
 /* Footer Right */
