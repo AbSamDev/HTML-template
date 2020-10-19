@@ -301,7 +301,9 @@ img{
 	height: 100px;
 	margin-bottom: 20px;
 }
-
+.list-unstyled .fab:hover{
+opacity: 0.5;
+}
 .footer-distributed form button{
 	border: 1px solid #9861bf;
 	background: #2c0548;
