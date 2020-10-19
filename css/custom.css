@@ -29,6 +29,7 @@ img{
 .top-header ul li a{
 	color: #fff;
 	font-size: 24px;
+        
 }
 .logo-section{
 	padding: 20px 0 0;
@@ -302,7 +303,7 @@ img{
 	margin-bottom: 20px;
 }
 .list-unstyled .fab:hover{
-opacity: 0.5;
+opacity: 0.4;
 }
 .footer-distributed form button{
 	border: 1px solid #9861bf;
