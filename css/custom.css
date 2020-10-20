@@ -10,6 +10,10 @@ h1, h2 , h3 , h4 , h5 , h6{
 img{
 	display: inline-block;
 }
+#tohover:hover{					/*  this block to add the hover effect on send button   */
+	color: rgb(44,5,72);
+	background-color: #fff;
+}
 .top-header{
 	background:#2c0548;
 	color:#fff;
